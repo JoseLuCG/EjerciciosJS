@@ -1,0 +1,3 @@
+# Numbers, numbers, numbers...
+
+* Revisa el fichero [index.js](index.js) y comprueba el resultado de su ejecución. Hay varios problemas en el. Uno tiene que ver con el concepto de ámbito de las variables y otro con la necesidad de usar nombres claros y significativos en nuestro código. ¿Podrás conseguir solucionar estos problemas y que el programa ofrezca un resultado coherente?.
