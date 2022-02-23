@@ -7,6 +7,6 @@
 ```javascript
 5**2 // -> 25 elevado al cuadrado
 2**3 // -> 8 elevado al cubo
-25**1/2 // -> 5 raíz cuadrada
-8**1/3 // -> 2 raíz cúbica
+25**(1/2) // -> 5 raíz cuadrada
+8**(1/3) // -> 2 raíz cúbica
 ```
