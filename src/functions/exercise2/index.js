@@ -1,10 +1,11 @@
-number = 0;
+let number = 0;
 
-function plusone(number) {
+function plusone(sumNumber) {
     number = number + 1;
-    return number;
+    console.log(number);
+    return sumNumber;
 }
 
 plusone(number);
 
-console.log(number)
+console.log(number);
