@@ -5,7 +5,7 @@ const numbers4 = [22,9,6,8,5,7,8,9,12,11];
 
 function minorValue(array) {
     let menor = Infinity;
-    
+    //escribir bien los condicionales en el orden correcto
     for (idx=0; idx < array.length; idx++){
         if (array[idx] < menor){
             menor = array[idx];
