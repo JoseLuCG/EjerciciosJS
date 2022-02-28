@@ -1,6 +1,8 @@
 const numbers = [11,9,13,12]
 
-// Put your code here
+function minorInRange (a,b, array) {
+    const minor = minorInRange(a,b, array)
+}
 
 console.log(minorInRange(0,3,numbers));
 console.log(minorInRange(2,3,numbers));
