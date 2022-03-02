@@ -1,4 +1,4 @@
-const chrono = [
+const people = [
     {
         name: "Ana",
         time: 102.01
@@ -21,4 +21,7 @@ const chrono = [
     },
 ]
 
-// Put you code here
+// Your code here
+
+sort(aFasterThanB, numbers)
+sort(bFasterThanA, numbers)
