@@ -1,8 +1,8 @@
 number = 0;
 
-function plusone(number) {
-    number = number + 1;
-    return number;
+function plusone(x) {
+    y = x + 1;
+    return y;
 }
 
 plusone(number);
