@@ -18,10 +18,10 @@ function swap(x,y,array) {
 }
 // Put your code here
 
-function pepito(array){
+function sortArray(array){
     let minor = minorInRange(0, 3, array);
     swap(0, minor, array)
 }
-pepito(numbers)
+sortArray(numbers)
 
 console.log(numbers);
